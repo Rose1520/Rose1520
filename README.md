@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rose1520
+- 👋 Hi, I’m Rose Khayanga
 - 👀 I’m interested in data analysis,data exploration,data cleaning and data visualizations.
 - 🌱 I’m currently learning data analysis ,business intelligence and making data driven insights.
 - 💞️ I’m looking to collaborate on projects on data analysis and business intelligence using python,sql and power bi dashboards.
