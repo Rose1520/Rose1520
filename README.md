@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rose Khayanga
-- 👀 I’m interested in data analysis,data exploration,data cleaning ,database design and development,Dashboard Design,Data Storytelling and data visualizations.
+- 👀 I’m interested in data analysis and its impact to driving data driven decisions.
 - 🌱 I’m currently learning data analysis ,business intelligence and making data driven insights.
 - 💞️ I’m looking to collaborate on projects on data analysis and business intelligence using python,sql and power bi dashboards.
 - 📫 How to reach me afyairose@gmail.com 
